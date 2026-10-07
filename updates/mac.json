@@ -1,10 +1,10 @@
 {
-  "version": "2026.10.7.1657",
-  "file": "PDF-Lab-Mac-Update-2026.10.7.1657.zip",
-  "size": 2923513,
-  "sha256": "84dcf1911be3be53ff62d0c1aae850c1e539b8a674f707cbfabf6a73b8630279",
+  "version": "2026.10.7.1754",
+  "file": "PDF-Lab-Mac-Update-2026.10.7.1754.zip",
+  "size": 2923700,
+  "sha256": "aff7f7941c8ab425ffcd34548d90208cacb72f72623e1fcb674d7fc102578757",
   "notes": {
-    "fr": "",
-    "en": ""
+    "fr": "Le numéro de version s’affiche maintenant en bas de l’écran d’accueil.",
+    "en": "The version number now shows at the bottom of the home screen."
   }
 }
