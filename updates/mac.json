@@ -1,10 +1,10 @@
 {
-  "version": "2026.10.7.1754",
-  "file": "PDF-Lab-Mac-Update-2026.10.7.1754.zip",
-  "size": 2923700,
-  "sha256": "aff7f7941c8ab425ffcd34548d90208cacb72f72623e1fcb674d7fc102578757",
+  "version": "2026.10.10.1234",
+  "file": "PDF-Lab-Mac-Update-2026.10.10.1234.zip",
+  "size": 2925130,
+  "sha256": "9bae597f05d2d67668dcadd3dc073c93f4519488a3a2e0cdd3467b5002630f7e",
   "notes": {
-    "fr": "Le numéro de version s’affiche maintenant en bas de l’écran d’accueil.",
-    "en": "The version number now shows at the bottom of the home screen."
+    "fr": "Faire pivoter PDF affiche maintenant toutes les pages : faites-les pivoter une à une, par fichier ou toutes à la fois.",
+    "en": "Rotate PDF now shows every page: turn pages one by one, a whole file, or everything at once."
   }
 }
