@@ -7,8 +7,9 @@
 #   1. checks that this is a Mac with macOS 14.4 or newer (what PDF Lab needs)
 #   2. downloads the newest PDF Lab from GitHub and checks that it arrived whole
 #   3. puts it into the Applications folder (an older PDF Lab there goes to the Trash)
-#   4. if no Google Chrome is on the Mac, downloads it from Google and puts it into Applications as well:
-#      two of the twelve tools (Word to PDF, Image to PDF) need it
+#   4. if the Mac has neither Brave nor Google Chrome (nor Edge or Chromium), downloads Google Chrome from Google
+#      and puts it into Applications as well: two of the twelve tools (Word to PDF, Image to PDF) print
+#      through such a browser, without ever opening it
 #   5. opens PDF Lab
 # Nothing else is installed, nothing asks for the Mac's password, and every step says what it does.
 # The app needs no Python, no Homebrew and no other program. Works on Apple Silicon and Intel.
@@ -73,14 +74,14 @@ note "done"
 have_browser() {
   local base name
   for base in /Applications "$HOME/Applications"; do
-    for name in "Google Chrome" "Chromium" "Microsoft Edge" "Brave Browser"; do
+    for name in "Brave Browser" "Google Chrome" "Chromium" "Microsoft Edge"; do
       [ -d "$base/$name.app" ] && return 0
     done
   done
   return 1
 }
 if [ -n "${PDFLAB_SKIP_CHROME:-}" ] || have_browser; then
-  note "Google Chrome (or a browser of the same kind) is already here"
+  note "Brave or Chrome is already here (two of the tools print through it)"
 else
   say "Installing Google Chrome from Google (two of the tools need it)"
   if curl -fL --retry 3 --progress-bar -o "$TMP/googlechrome.dmg" "$CHROME_URL" \

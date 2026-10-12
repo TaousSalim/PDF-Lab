@@ -1,12 +1,12 @@
 {
-  "version": "2026.10.12.1642",
-  "file": "PDF-Lab-Mac-Update-2026.10.12.1642.zip",
-  "size": 3082026,
-  "sha256": "7bb824213250e0fdbcb601cadaa583624149c9b0c67fedfc26c43157261f6aed",
+  "version": "2026.10.12.1712",
+  "file": "PDF-Lab-Mac-Update-2026.10.12.1712.zip",
+  "size": 3083095,
+  "sha256": "a06571cd96f0f70f1ff3d0a43473d5dbd55172c167a12fb9f7fa4dabc53759f7",
   "shell": 1,
   "notes": {
-    "fr": "PDF Lab est désormais une application Mac native, avec l’allemand comme troisième langue.",
-    "en": "PDF Lab is now a native Mac app, with German as a third language.",
-    "de": "PDF Lab ist jetzt eine echte Mac-App und spricht auch Deutsch."
+    "fr": "Word en PDF et Image en PDF fonctionnent désormais avec Brave.",
+    "en": "Word to PDF and Image to PDF now work with Brave.",
+    "de": "Word in PDF und Bild in PDF funktionieren jetzt auch mit Brave."
   }
 }

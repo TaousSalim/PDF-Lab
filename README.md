@@ -11,7 +11,7 @@ PDF Lab puts every PDF tool in one place: merge, split, organize, rotate, edit a
 curl -fsSL https://raw.githubusercontent.com/TaousSalim/PDF-Lab/main/install-mac.sh | bash
 ```
 
-It downloads PDF Lab, puts it into Applications, adds Google Chrome if the Mac has none, and opens the app. PDF Lab then asks once for its username and password.
+It downloads PDF Lab, puts it into Applications, and opens the app. If the Mac has neither Brave nor Chrome (nor Edge), it adds Google Chrome, which two of the tools need. PDF Lab then asks once for its username and password.
 
 **Or by hand:**
 1. Download **[PDF-Lab-Mac.zip](https://github.com/TaousSalim/PDF-Lab/releases/latest/download/PDF-Lab-Mac.zip)** and open it.
@@ -19,7 +19,7 @@ It downloads PDF Lab, puts it into Applications, adds Google Chrome if the Mac h
 3. The first time, macOS says it cannot check the app. Open **System Settings**, **Privacy & Security**, scroll down and click **Open Anyway**.
 4. PDF Lab asks once for its username and password. After that it opens directly.
 
-Works on every Mac, Apple Silicon and Intel, with macOS 14.4 or newer. Word to PDF and Image to PDF also need Google Chrome. In English, French and German.
+Works on every Mac, Apple Silicon and Intel, with macOS 14.4 or newer. Word to PDF and Image to PDF also need Brave or Google Chrome to be installed (it is never opened). In English, French and German.
 
 ### Windows
 Open the folder [updates](https://github.com/TaousSalim/PDF-Lab/tree/main/updates), click the newest `PDF-Lab-Setup-<version>.exe`, download it and run it. Needs Google Chrome.
