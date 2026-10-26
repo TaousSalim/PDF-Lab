@@ -1,14 +1,14 @@
 {
-  "version": "2026.10.26.1448",
-  "file": "PDF-Lab-Mac-Update-2026.10.26.1448.zip",
-  "url": "https://github.com/TaousSalim/PDF-Lab/releases/download/mac-2026.10.26.1448/PDF-Lab-Mac-Update-2026.10.26.1448.zip",
+  "version": "2026.10.26.1509",
+  "file": "PDF-Lab-Mac-Update-2026.10.26.1509.zip",
+  "url": "https://github.com/TaousSalim/PDF-Lab/releases/download/mac-2026.10.26.1509/PDF-Lab-Mac-Update-2026.10.26.1509.zip",
   "size": 131097409,
-  "sha256": "42be079728412c2ca1e5fec551e68e56ca36cb8a3b4772f74f0f46265cb8a3b4",
-  "sig": "VvaAUJ3AWdGCogVCjpk1a8BpIhqvQVxf2lV2dKwslcT8wGgqHdCwsyeZpM3/q/3+YfVOBUe0rkG+1179SoeBDw==",
+  "sha256": "6c8196ab9b3faeef64b5e25c6c4e1abd36a526f751c04eebd4cbad390770beb7",
+  "sig": "RbATA0ExDSjghGohlwtS2m7Iwn7OZGvy+DRJX7HDEJ2DcY7PgoCnIJ1a8pegu1fGZU452ybnWrWVO1jNJ4h4BA==",
   "shell": 1,
   "notes": {
-    "fr": "Nouveau : un petit bouton clé en haut affiche votre licence à tout moment (type, date de fin, jours restants, code d’ordinateur). Un essai est maintenant bien visible pendant toute sa durée.",
-    "en": "New: a small key button at the top shows your licence at any time (kind, end date, days left, computer code). A trial is now shown clearly for its whole length.",
-    "de": "Neu: Ein kleiner Schlüsselknopf oben zeigt deine Lizenz jederzeit (Art, Enddatum, verbleibende Tage, Computercode). Eine Testversion wird jetzt während der ganzen Dauer deutlich angezeigt."
+    "fr": "En coulisses : les derniers restes de l’ancien mot de passe ont été retirés. PDF Lab n’est limité que par la clé de licence. Rien ne change dans son fonctionnement.",
+    "en": "Behind the scenes: the last leftovers of the old password were removed. PDF Lab is limited by the licence key only. Nothing changes in how it works.",
+    "de": "Im Hintergrund: Die letzten Reste des alten Passworts wurden entfernt. PDF Lab wird nur noch durch den Lizenzschlüssel begrenzt. An der Funktionsweise ändert sich nichts."
   }
 }
