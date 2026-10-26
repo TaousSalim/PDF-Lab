@@ -1,0 +1,11 @@
+{
+  "version": "2026.10.26.0658",
+  "file": "PDF-Lab-Setup-2026.10.26.0658.exe",
+  "size": 56757341,
+  "sha256": "ba66a003443232f2e8ae17006593c782c14260ee5cf5ca9079536574865bba4e",
+  "sig": "e8VqYmyiSXzrvjTrK8b44udk5FJ6Tcfp1A8angaOGrWvxm6+kuz/rIr13w67TalWq0LDi3ThD3dD9D6OVWiSBQ==",
+  "notes": {
+    "fr": "PDF Lab demande maintenant une clé de licence. Après la mise à jour, envoyez le code d’ordinateur affiché pour recevoir votre clé.",
+    "en": "PDF Lab now needs a licence key. After the update, send the computer code it shows to get your key."
+  }
+}

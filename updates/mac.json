@@ -1,0 +1,14 @@
+{
+  "version": "2026.10.26.0658",
+  "file": "PDF-Lab-Mac-Update-2026.10.26.0658.zip",
+  "url": "https://github.com/TaousSalim/PDF-Lab/releases/download/mac-2026.10.26.0658/PDF-Lab-Mac-Update-2026.10.26.0658.zip",
+  "size": 131095195,
+  "sha256": "87dae527258d45547aa2cd32d2881344321a649fb27d16911b1956674df954c1",
+  "sig": "ROkpaiXCTAVle4LXvIH/1Ja70wx0fX+aeGrUn34FixrEESITrml3weqk2TUmXevApibGO6ADVpLlqTySES3DBA==",
+  "shell": 1,
+  "notes": {
+    "fr": "PDF Lab demande maintenant une clé de licence. Après la mise à jour, envoyez le code d’ordinateur affiché pour recevoir votre clé.",
+    "en": "PDF Lab now needs a licence key. After the update, send the computer code it shows to get your key.",
+    "de": "PDF Lab braucht jetzt einen Lizenzschlüssel. Sende nach dem Update den angezeigten Computercode, um deinen Schlüssel zu bekommen."
+  }
+}
