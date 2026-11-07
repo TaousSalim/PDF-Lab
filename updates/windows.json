@@ -1,11 +1,11 @@
 {
-  "version": "2026.10.26.1448",
-  "file": "PDF-Lab-Setup-2026.10.26.1448.exe",
-  "size": 56757590,
-  "sha256": "5cec098eeaafa4492e47cad730d8b74b6de577138f9c5655644a85ad59b178fd",
-  "sig": "cSVIZYyNFGS2KXspjXKNQpfUOKz/FNLNw/cu9IumofvTuczcSFBNKxX2/5If3KInBuASVENZiQyHoWn8EofNAQ==",
+  "version": "2026.11.07.1550",
+  "file": "PDF-Lab-Setup-2026.11.07.1550.exe",
+  "size": 56765121,
+  "sha256": "3c2170127bad8dafb379c21bca143cfc02bde700231c19b6a903d8eac5bd68cc",
+  "sig": "6BjcCU/wgDDjrgNBjZQ7Ts0r5k+pRYVjnHmT5p87jQySpqWJ2nlOHrvsTb65BJotwbtf+k8SzIKAL7WtkjxFBw==",
   "notes": {
-    "fr": "Nouveau : un petit bouton clé en haut affiche votre licence à tout moment (type, date de fin, jours restants, code d’ordinateur). Un essai est maintenant bien visible pendant toute sa durée.",
-    "en": "New: a small key button at the top shows your licence at any time (kind, end date, days left, computer code). A trial is now shown clearly for its whole length."
+    "fr": "Nouvel outil : Déverrouiller PDF. Retire le mot de passe et les restrictions de vos PDF, pour les ouvrir, imprimer, copier et modifier librement.",
+    "en": "New tool: Unlock PDF. Removes the password and the restrictions of your PDFs, so you can open, print, copy and change them freely."
   }
 }
